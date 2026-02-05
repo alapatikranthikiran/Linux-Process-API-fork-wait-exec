@@ -97,6 +97,7 @@ int main() {
 ```
 
 ##OUTPUT
+
 ![alt text](<WhatsApp Image 2026-02-05 at 9.01.45 AM (1).jpeg>)
 
 # RESULT:
